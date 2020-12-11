@@ -14,3 +14,7 @@ Here is a screenshot of the full website:
 Here is the link to the published site:
 
 https://cspiegelhalter.github.io/homework_01/
+
+*****Known bugs: 
+    1) Adblock will prevent one of the images from being loaded
+    2) The blue aside moves down the page when browser window is resized
